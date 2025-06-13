@@ -78,6 +78,10 @@ By combining descriptive statistics, volatility modeling, correlation analysis, 
 3. Learned to generate data-driven market insights via interactive visualizations.
 4. Strengthened Python data analysis and visual storytelling capabilities.
 
+## 👩‍💻Author
+**Divya Pariti**  
+Master’s in Data & Computational Science, University College Dublin  
+🔗 [LinkedIn](https://www.linkedin.com/in/divya-pariti/) | 📫 divyatanuja17@gmail.com
 
 
 
