@@ -1,4 +1,4 @@
-# 📈 Quantitative-Analysis-of-Stock-Market-using-Python
+# 📈 Quantitative Analysis of Stock Market using Python
 This project presents a detailed quantitative analysis of stock market trends and behaviors using Python.
 It focuses on four major stocks: Apple (AAPL), Microsoft (MSFT), Alphabet (GOOG), and Netflix (NFLX) — covering their historical price trends, volatility, and correlation patterns.
 
